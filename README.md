@@ -2,7 +2,7 @@
 This repository contains an Exploratory Data Analysis (EDA) project aimed at understanding the mental health status of students using a dataset from Kaggle.
 ## Overview
 Mental health is a critical aspect of students' well-being. This project explores various factors affecting students' mental health through data analysis and visualization.
-##Analysis
+## Analysis
 The notebook performs the following steps:
 1. **Data Extraction**: Using Kaggle API to download and extract the dataset.
 2. **Library Imports**: Importing essential libraries.
